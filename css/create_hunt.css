@@ -1,0 +1,11 @@
+.locItem.active {
+	background-color: #7ABDBA;
+}
+
+.locForm.active {
+	display: block;
+}
+
+.locForm {
+	display: none;
+}
